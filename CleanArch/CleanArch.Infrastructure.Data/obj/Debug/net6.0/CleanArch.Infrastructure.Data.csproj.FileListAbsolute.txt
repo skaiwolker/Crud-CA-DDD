@@ -1,0 +1,17 @@
+C:\Users\darta\OneDrive\Documents\DArtagnan Lamarca\Cursos\Crud-CA-DDD\CleanArch\CleanArch.Infrastructure.Data\bin\Debug\net6.0\CleanArch.Infrastructure.Data.deps.json
+C:\Users\darta\OneDrive\Documents\DArtagnan Lamarca\Cursos\Crud-CA-DDD\CleanArch\CleanArch.Infrastructure.Data\bin\Debug\net6.0\CleanArch.Infrastructure.Data.dll
+C:\Users\darta\OneDrive\Documents\DArtagnan Lamarca\Cursos\Crud-CA-DDD\CleanArch\CleanArch.Infrastructure.Data\bin\Debug\net6.0\CleanArch.Infrastructure.Data.pdb
+C:\Users\darta\OneDrive\Documents\DArtagnan Lamarca\Cursos\Crud-CA-DDD\CleanArch\CleanArch.Infrastructure.Data\bin\Debug\net6.0\CleanArch.Domain.dll
+C:\Users\darta\OneDrive\Documents\DArtagnan Lamarca\Cursos\Crud-CA-DDD\CleanArch\CleanArch.Infrastructure.Data\bin\Debug\net6.0\CleanArch.Domain.pdb
+C:\Users\darta\OneDrive\Documents\DArtagnan Lamarca\Cursos\Crud-CA-DDD\CleanArch\CleanArch.Infrastructure.Data\obj\Debug\net6.0\CleanArch.Infrastructure.Data.csproj.AssemblyReference.cache
+C:\Users\darta\OneDrive\Documents\DArtagnan Lamarca\Cursos\Crud-CA-DDD\CleanArch\CleanArch.Infrastructure.Data\obj\Debug\net6.0\CleanArch.Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darta\OneDrive\Documents\DArtagnan Lamarca\Cursos\Crud-CA-DDD\CleanArch\CleanArch.Infrastructure.Data\obj\Debug\net6.0\CleanArch.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Users\darta\OneDrive\Documents\DArtagnan Lamarca\Cursos\Crud-CA-DDD\CleanArch\CleanArch.Infrastructure.Data\obj\Debug\net6.0\CleanArch.Infrastructure.Data.AssemblyInfo.cs
+C:\Users\darta\OneDrive\Documents\DArtagnan Lamarca\Cursos\Crud-CA-DDD\CleanArch\CleanArch.Infrastructure.Data\obj\Debug\net6.0\CleanArch.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\darta\OneDrive\Documents\DArtagnan Lamarca\Cursos\Crud-CA-DDD\CleanArch\CleanArch.Infrastructure.Data\obj\Debug\net6.0\CleanArch.Infrastructure.Data.csproj.CopyComplete
+C:\Users\darta\OneDrive\Documents\DArtagnan Lamarca\Cursos\Crud-CA-DDD\CleanArch\CleanArch.Infrastructure.Data\obj\Debug\net6.0\CleanArch.Infrastructure.Data.dll
+C:\Users\darta\OneDrive\Documents\DArtagnan Lamarca\Cursos\Crud-CA-DDD\CleanArch\CleanArch.Infrastructure.Data\obj\Debug\net6.0\refint\CleanArch.Infrastructure.Data.dll
+C:\Users\darta\OneDrive\Documents\DArtagnan Lamarca\Cursos\Crud-CA-DDD\CleanArch\CleanArch.Infrastructure.Data\obj\Debug\net6.0\CleanArch.Infrastructure.Data.pdb
+C:\Users\darta\OneDrive\Documents\DArtagnan Lamarca\Cursos\Crud-CA-DDD\CleanArch\CleanArch.Infrastructure.Data\obj\Debug\net6.0\ref\CleanArch.Infrastructure.Data.dll
+C:\Users\darta\OneDrive\Documents\DArtagnan Lamarca\Cursos\Crud-CA-DDD\CleanArch\CleanArch.Infrastructure.Data\bin\Debug\net6.0\CleanArch.Infrastructure.Data.runtimeconfig.json
+C:\Users\darta\OneDrive\Documents\DArtagnan Lamarca\Cursos\Crud-CA-DDD\CleanArch\CleanArch.Infrastructure.Data\obj\Debug\net6.0\CleanArch.Infrastructure.Data.genruntimeconfig.cache

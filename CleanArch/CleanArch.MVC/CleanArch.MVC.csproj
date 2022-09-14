@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>aspnet-CleanArch.MVC-0542038C-6AE2-4E01-B8EA-2E4314642F14</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CleanArch.Infrastructure.Data\CleanArch.Infrastructure.Data.csproj" />
+    <ProjectReference Include="..\CleanArch.Infrastructure.IoC\CleanArch.Infrastructure.IoC.csproj" />
+  </ItemGroup>
+
+</Project>
