@@ -1,6 +1,7 @@
 ﻿using CleanArch.Domain.Entities;
 using CleanArch.Domain.Interfaces;
 using CleanArch.Infra.Data.Context;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -18,9 +19,32 @@ namespace CleanArch.Infrastructure.Data.Repository
             _context = context;
         }
 
-        public IEnumerable<User> GetUsers()
+        public async Task<IEnumerable<User>> GetUsers()
         {
-            return _context.Users;
+            return await _context.Users.ToListAsync();
+        }
+
+        public async Task<User> GetUserById(int? id)
+        {
+            return await _context.Users.FindAsync(id);
+        }
+
+        public void AddUser(User user)
+        {
+            _context.Add(user);
+            _context.SaveChanges();
+        }
+
+        public void UpdateUser(User user)
+        {
+            _context.Add(user);
+            _context.SaveChanges();
+        }
+
+        public void RemoveUser(User user)
+        {
+            _context.Remove(user);
+            _context.SaveChanges();
         }
     }
 }

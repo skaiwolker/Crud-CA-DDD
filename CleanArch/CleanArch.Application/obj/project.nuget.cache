@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ZyhCXFEm4AacLgxuUmqKWNq2AFbR2ToJNILoP7OZCVGxut63NoXrlbVvtRqvFbr6zVR38GG8DQaPKpmUJAOgGQ==",
+  "dgSpecHash": "wolHDKZbNRZ+Gk8pBJIc3YhpGKHlgJaK/xovG+MV4pTvOj9nzJaFbX6pcZSb+aowevRwm3P1eEnRYgCYfjVl9A==",
   "success": true,
   "projectFilePath": "C:\\Users\\darta\\OneDrive\\Documents\\DArtagnan Lamarca\\Cursos\\Crud-CA-DDD\\CleanArch\\CleanArch.Application\\CleanArch.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\darta\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\darta\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

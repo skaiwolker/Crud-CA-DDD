@@ -1,4 +1,8 @@
+using CleanArch.Application.Interfaces;
+using CleanArch.Application.Services;
+using CleanArch.Domain.Interfaces;
 using CleanArch.Infra.Data.Context;
+using CleanArch.Infrastructure.Data.Repository;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
@@ -13,6 +17,10 @@ builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
     .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddRazorPages();
+
+builder.Services.AddScoped<IUserRepository, UserRepository>();
+
+builder.Services.AddScoped<IUserService, UserService>();
 
 var app = builder.Build();
 

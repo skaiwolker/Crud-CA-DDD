@@ -9,7 +9,15 @@ namespace CleanArch.Domain.Interfaces
 {
     public interface IUserRepository
     {
-        IEnumerable<User> GetUsers();
+        Task<IEnumerable<User>> GetUsers();
+
+        Task<User> GetUserById(int? id);
+
+        void AddUser(User user);
+
+        void UpdateUser(User user);
+
+        void RemoveUser(User user);
 
     }
 }
