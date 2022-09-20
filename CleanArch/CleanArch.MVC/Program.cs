@@ -3,6 +3,7 @@ using CleanArch.Application.Services;
 using CleanArch.Domain.Interfaces;
 using CleanArch.Infra.Data.Context;
 using CleanArch.Infrastructure.Data.Repository;
+using CleanArch.MVC.MappingConfig;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
@@ -21,6 +22,8 @@ builder.Services.AddRazorPages();
 builder.Services.AddScoped<IUserRepository, UserRepository>();
 
 builder.Services.AddScoped<IUserService, UserService>();
+
+builder.Services.AddAutoMapperConfiguration();
 
 var app = builder.Build();
 

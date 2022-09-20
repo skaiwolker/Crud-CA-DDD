@@ -76,3 +76,5 @@ C:\Users\darta\OneDrive\Documents\DArtagnan Lamarca\Cursos\Crud-CA-DDD\CleanArch
 C:\Users\darta\OneDrive\Documents\DArtagnan Lamarca\Cursos\Crud-CA-DDD\CleanArch\CleanArch.MVC\obj\Debug\net6.0\CleanArch.MVC.pdb
 C:\Users\darta\OneDrive\Documents\DArtagnan Lamarca\Cursos\Crud-CA-DDD\CleanArch\CleanArch.MVC\obj\Debug\net6.0\CleanArch.MVC.genruntimeconfig.cache
 C:\Users\darta\OneDrive\Documents\DArtagnan Lamarca\Cursos\Crud-CA-DDD\CleanArch\CleanArch.MVC\obj\Debug\net6.0\ref\CleanArch.MVC.dll
+C:\Users\darta\OneDrive\Documents\DArtagnan Lamarca\Cursos\Crud-CA-DDD\CleanArch\CleanArch.MVC\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\darta\OneDrive\Documents\DArtagnan Lamarca\Cursos\Crud-CA-DDD\CleanArch\CleanArch.MVC\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
