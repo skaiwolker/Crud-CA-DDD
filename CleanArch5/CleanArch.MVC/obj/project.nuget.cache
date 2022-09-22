@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n2y2Jo0XxRij5aPBKJXMyfqrVjE82hv2YWVJzoxhKT4hjfPqNu8zK+NA6xAXo71X2DGiW/3L+fje+SVUTf6xqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dartagnanl\\Documents\\GitHub\\Crud-CA-DDD\\CleanArch5\\CleanArch.MVC\\CleanArch.MVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dartagnanl\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

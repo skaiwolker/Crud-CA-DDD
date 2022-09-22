@@ -1,0 +1,17 @@
+C:\Users\dartagnanl\Documents\GitHub\Crud-CA-DDD\CleanArch5\CleanArch.Infra.IoC\bin\Debug\netcoreapp3.1\CleanArch.Infra.IoC.deps.json
+C:\Users\dartagnanl\Documents\GitHub\Crud-CA-DDD\CleanArch5\CleanArch.Infra.IoC\bin\Debug\netcoreapp3.1\CleanArch.Infra.IoC.dll
+C:\Users\dartagnanl\Documents\GitHub\Crud-CA-DDD\CleanArch5\CleanArch.Infra.IoC\bin\Debug\netcoreapp3.1\CleanArch.Infra.IoC.pdb
+C:\Users\dartagnanl\Documents\GitHub\Crud-CA-DDD\CleanArch5\CleanArch.Infra.IoC\bin\Debug\netcoreapp3.1\CleanArch.Application.dll
+C:\Users\dartagnanl\Documents\GitHub\Crud-CA-DDD\CleanArch5\CleanArch.Infra.IoC\bin\Debug\netcoreapp3.1\CleanArch.Domain.dll
+C:\Users\dartagnanl\Documents\GitHub\Crud-CA-DDD\CleanArch5\CleanArch.Infra.IoC\bin\Debug\netcoreapp3.1\CleanArch.Infra.Data.dll
+C:\Users\dartagnanl\Documents\GitHub\Crud-CA-DDD\CleanArch5\CleanArch.Infra.IoC\bin\Debug\netcoreapp3.1\CleanArch.Application.pdb
+C:\Users\dartagnanl\Documents\GitHub\Crud-CA-DDD\CleanArch5\CleanArch.Infra.IoC\bin\Debug\netcoreapp3.1\CleanArch.Domain.pdb
+C:\Users\dartagnanl\Documents\GitHub\Crud-CA-DDD\CleanArch5\CleanArch.Infra.IoC\bin\Debug\netcoreapp3.1\CleanArch.Infra.Data.pdb
+C:\Users\dartagnanl\Documents\GitHub\Crud-CA-DDD\CleanArch5\CleanArch.Infra.IoC\obj\Debug\netcoreapp3.1\CleanArch.Infra.IoC.csproj.AssemblyReference.cache
+C:\Users\dartagnanl\Documents\GitHub\Crud-CA-DDD\CleanArch5\CleanArch.Infra.IoC\obj\Debug\netcoreapp3.1\CleanArch.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dartagnanl\Documents\GitHub\Crud-CA-DDD\CleanArch5\CleanArch.Infra.IoC\obj\Debug\netcoreapp3.1\CleanArch.Infra.IoC.AssemblyInfoInputs.cache
+C:\Users\dartagnanl\Documents\GitHub\Crud-CA-DDD\CleanArch5\CleanArch.Infra.IoC\obj\Debug\netcoreapp3.1\CleanArch.Infra.IoC.AssemblyInfo.cs
+C:\Users\dartagnanl\Documents\GitHub\Crud-CA-DDD\CleanArch5\CleanArch.Infra.IoC\obj\Debug\netcoreapp3.1\CleanArch.Infra.IoC.csproj.CoreCompileInputs.cache
+C:\Users\dartagnanl\Documents\GitHub\Crud-CA-DDD\CleanArch5\CleanArch.Infra.IoC\obj\Debug\netcoreapp3.1\CleanArch.Infra.IoC.csproj.CopyComplete
+C:\Users\dartagnanl\Documents\GitHub\Crud-CA-DDD\CleanArch5\CleanArch.Infra.IoC\obj\Debug\netcoreapp3.1\CleanArch.Infra.IoC.dll
+C:\Users\dartagnanl\Documents\GitHub\Crud-CA-DDD\CleanArch5\CleanArch.Infra.IoC\obj\Debug\netcoreapp3.1\CleanArch.Infra.IoC.pdb

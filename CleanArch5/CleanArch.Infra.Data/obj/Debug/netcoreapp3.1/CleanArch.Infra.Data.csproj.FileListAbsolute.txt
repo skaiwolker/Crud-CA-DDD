@@ -1,0 +1,16 @@
+C:\Users\dartagnanl\Documents\GitHub\Crud-CA-DDD\CleanArch5\CleanArch.Infra.Data\bin\Debug\netcoreapp3.1\CleanArch.Infra.Data.deps.json
+C:\Users\dartagnanl\Documents\GitHub\Crud-CA-DDD\CleanArch5\CleanArch.Infra.Data\bin\Debug\netcoreapp3.1\CleanArch.Infra.Data.runtimeconfig.json
+C:\Users\dartagnanl\Documents\GitHub\Crud-CA-DDD\CleanArch5\CleanArch.Infra.Data\bin\Debug\netcoreapp3.1\CleanArch.Infra.Data.runtimeconfig.dev.json
+C:\Users\dartagnanl\Documents\GitHub\Crud-CA-DDD\CleanArch5\CleanArch.Infra.Data\bin\Debug\netcoreapp3.1\CleanArch.Infra.Data.dll
+C:\Users\dartagnanl\Documents\GitHub\Crud-CA-DDD\CleanArch5\CleanArch.Infra.Data\bin\Debug\netcoreapp3.1\CleanArch.Infra.Data.pdb
+C:\Users\dartagnanl\Documents\GitHub\Crud-CA-DDD\CleanArch5\CleanArch.Infra.Data\bin\Debug\netcoreapp3.1\CleanArch.Domain.dll
+C:\Users\dartagnanl\Documents\GitHub\Crud-CA-DDD\CleanArch5\CleanArch.Infra.Data\bin\Debug\netcoreapp3.1\CleanArch.Domain.pdb
+C:\Users\dartagnanl\Documents\GitHub\Crud-CA-DDD\CleanArch5\CleanArch.Infra.Data\obj\Debug\netcoreapp3.1\CleanArch.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\dartagnanl\Documents\GitHub\Crud-CA-DDD\CleanArch5\CleanArch.Infra.Data\obj\Debug\netcoreapp3.1\CleanArch.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dartagnanl\Documents\GitHub\Crud-CA-DDD\CleanArch5\CleanArch.Infra.Data\obj\Debug\netcoreapp3.1\CleanArch.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\dartagnanl\Documents\GitHub\Crud-CA-DDD\CleanArch5\CleanArch.Infra.Data\obj\Debug\netcoreapp3.1\CleanArch.Infra.Data.AssemblyInfo.cs
+C:\Users\dartagnanl\Documents\GitHub\Crud-CA-DDD\CleanArch5\CleanArch.Infra.Data\obj\Debug\netcoreapp3.1\CleanArch.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\dartagnanl\Documents\GitHub\Crud-CA-DDD\CleanArch5\CleanArch.Infra.Data\obj\Debug\netcoreapp3.1\CleanArch.Infra.Data.csproj.CopyComplete
+C:\Users\dartagnanl\Documents\GitHub\Crud-CA-DDD\CleanArch5\CleanArch.Infra.Data\obj\Debug\netcoreapp3.1\CleanArch.Infra.Data.dll
+C:\Users\dartagnanl\Documents\GitHub\Crud-CA-DDD\CleanArch5\CleanArch.Infra.Data\obj\Debug\netcoreapp3.1\CleanArch.Infra.Data.pdb
+C:\Users\dartagnanl\Documents\GitHub\Crud-CA-DDD\CleanArch5\CleanArch.Infra.Data\obj\Debug\netcoreapp3.1\CleanArch.Infra.Data.genruntimeconfig.cache
