@@ -11,3 +11,16 @@ C:\Users\dartagnanl\Documents\GitHub\Crud-CA-DDD\CleanArch5\CleanArch.Applicatio
 C:\Users\dartagnanl\Documents\GitHub\Crud-CA-DDD\CleanArch5\CleanArch.Application\obj\Debug\netcoreapp3.1\CleanArch.Application.csproj.CopyComplete
 C:\Users\dartagnanl\Documents\GitHub\Crud-CA-DDD\CleanArch5\CleanArch.Application\obj\Debug\netcoreapp3.1\CleanArch.Application.dll
 C:\Users\dartagnanl\Documents\GitHub\Crud-CA-DDD\CleanArch5\CleanArch.Application\obj\Debug\netcoreapp3.1\CleanArch.Application.pdb
+C:\Users\darta\OneDrive\Documents\DArtagnan Lamarca\Cursos\Crud-CA-DDD\CleanArch5\CleanArch.Application\bin\Debug\netcoreapp3.1\CleanArch.Application.deps.json
+C:\Users\darta\OneDrive\Documents\DArtagnan Lamarca\Cursos\Crud-CA-DDD\CleanArch5\CleanArch.Application\bin\Debug\netcoreapp3.1\CleanArch.Application.dll
+C:\Users\darta\OneDrive\Documents\DArtagnan Lamarca\Cursos\Crud-CA-DDD\CleanArch5\CleanArch.Application\bin\Debug\netcoreapp3.1\CleanArch.Application.pdb
+C:\Users\darta\OneDrive\Documents\DArtagnan Lamarca\Cursos\Crud-CA-DDD\CleanArch5\CleanArch.Application\bin\Debug\netcoreapp3.1\CleanArch.Domain.dll
+C:\Users\darta\OneDrive\Documents\DArtagnan Lamarca\Cursos\Crud-CA-DDD\CleanArch5\CleanArch.Application\bin\Debug\netcoreapp3.1\CleanArch.Domain.pdb
+C:\Users\darta\OneDrive\Documents\DArtagnan Lamarca\Cursos\Crud-CA-DDD\CleanArch5\CleanArch.Application\obj\Debug\netcoreapp3.1\CleanArch.Application.csproj.AssemblyReference.cache
+C:\Users\darta\OneDrive\Documents\DArtagnan Lamarca\Cursos\Crud-CA-DDD\CleanArch5\CleanArch.Application\obj\Debug\netcoreapp3.1\CleanArch.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darta\OneDrive\Documents\DArtagnan Lamarca\Cursos\Crud-CA-DDD\CleanArch5\CleanArch.Application\obj\Debug\netcoreapp3.1\CleanArch.Application.AssemblyInfoInputs.cache
+C:\Users\darta\OneDrive\Documents\DArtagnan Lamarca\Cursos\Crud-CA-DDD\CleanArch5\CleanArch.Application\obj\Debug\netcoreapp3.1\CleanArch.Application.AssemblyInfo.cs
+C:\Users\darta\OneDrive\Documents\DArtagnan Lamarca\Cursos\Crud-CA-DDD\CleanArch5\CleanArch.Application\obj\Debug\netcoreapp3.1\CleanArch.Application.csproj.CoreCompileInputs.cache
+C:\Users\darta\OneDrive\Documents\DArtagnan Lamarca\Cursos\Crud-CA-DDD\CleanArch5\CleanArch.Application\obj\Debug\netcoreapp3.1\CleanArch.Application.csproj.CopyComplete
+C:\Users\darta\OneDrive\Documents\DArtagnan Lamarca\Cursos\Crud-CA-DDD\CleanArch5\CleanArch.Application\obj\Debug\netcoreapp3.1\CleanArch.Application.dll
+C:\Users\darta\OneDrive\Documents\DArtagnan Lamarca\Cursos\Crud-CA-DDD\CleanArch5\CleanArch.Application\obj\Debug\netcoreapp3.1\CleanArch.Application.pdb

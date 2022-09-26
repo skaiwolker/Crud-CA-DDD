@@ -2,6 +2,22 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
+      "AutoMapper/11.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.CSharp": "4.7.0"
+        },
+        "compile": {
+          "lib/netstandard2.1/AutoMapper.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.1/AutoMapper.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.AspNetCore.Cryptography.Internal/3.1.27": {
         "type": "package",
         "compile": {
@@ -1779,6 +1795,9 @@
       "CleanArch.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "AutoMapper": "11.0.1"
+        },
         "compile": {
           "bin/placeholder/CleanArch.Domain.dll": {}
         },
@@ -1789,6 +1808,21 @@
     }
   },
   "libraries": {
+    "AutoMapper/11.0.1": {
+      "sha512": "WIadGC1pIwbnyTubvI577p3F++Bsj9q2Q3OaAc1I0QS+JhupN1xkdrPBhI9bPIeg63zM81tZplUNYkqU1HE5jQ==",
+      "type": "package",
+      "path": "automapper/11.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "automapper.11.0.1.nupkg.sha512",
+        "automapper.nuspec",
+        "icon.png",
+        "lib/netstandard2.1/AutoMapper.dll",
+        "lib/netstandard2.1/AutoMapper.xml"
+      ]
+    },
     "Microsoft.AspNetCore.Cryptography.Internal/3.1.27": {
       "sha512": "0cUCH/E+tceVmPjRsAUGKzyoM3tPq1IUaw3iKsxlfFZLmY0EhlalWUsDalcRq8crGAlKa4YbtbOIgOgh/h54TQ==",
       "type": "package",
@@ -5970,19 +6004,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dartagnanl\\.nuget\\packages\\": {}
+    "C:\\Users\\darta\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dartagnanl\\Documents\\GitHub\\Crud-CA-DDD\\CleanArch5\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj",
+      "projectUniqueName": "C:\\Users\\darta\\OneDrive\\Documents\\DArtagnan Lamarca\\Cursos\\Crud-CA-DDD\\CleanArch5\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj",
       "projectName": "CleanArch.Infra.Data",
-      "projectPath": "C:\\Users\\dartagnanl\\Documents\\GitHub\\Crud-CA-DDD\\CleanArch5\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj",
-      "packagesPath": "C:\\Users\\dartagnanl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dartagnanl\\Documents\\GitHub\\Crud-CA-DDD\\CleanArch5\\CleanArch.Infra.Data\\obj\\",
+      "projectPath": "C:\\Users\\darta\\OneDrive\\Documents\\DArtagnan Lamarca\\Cursos\\Crud-CA-DDD\\CleanArch5\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj",
+      "packagesPath": "C:\\Users\\darta\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\darta\\OneDrive\\Documents\\DArtagnan Lamarca\\Cursos\\Crud-CA-DDD\\CleanArch5\\CleanArch.Infra.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\dartagnanl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\darta\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5996,8 +6030,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\dartagnanl\\Documents\\GitHub\\Crud-CA-DDD\\CleanArch5\\CleanArch.Domain\\CleanArch.Domain.csproj": {
-              "projectPath": "C:\\Users\\dartagnanl\\Documents\\GitHub\\Crud-CA-DDD\\CleanArch5\\CleanArch.Domain\\CleanArch.Domain.csproj"
+            "C:\\Users\\darta\\OneDrive\\Documents\\DArtagnan Lamarca\\Cursos\\Crud-CA-DDD\\CleanArch5\\CleanArch.Domain\\CleanArch.Domain.csproj": {
+              "projectPath": "C:\\Users\\darta\\OneDrive\\Documents\\DArtagnan Lamarca\\Cursos\\Crud-CA-DDD\\CleanArch5\\CleanArch.Domain\\CleanArch.Domain.csproj"
             }
           }
         }
@@ -6049,7 +6083,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

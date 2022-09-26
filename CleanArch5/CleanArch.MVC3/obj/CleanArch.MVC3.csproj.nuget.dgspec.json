@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dartagnanl\\Documents\\GitHub\\Crud-CA-DDD\\CleanArch5\\CleanArch.MVC3\\CleanArch.MVC3.csproj": {}
+    "C:\\Users\\darta\\OneDrive\\Documents\\DArtagnan Lamarca\\Cursos\\Crud-CA-DDD\\CleanArch5\\CleanArch.MVC3\\CleanArch.MVC3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dartagnanl\\Documents\\GitHub\\Crud-CA-DDD\\CleanArch5\\CleanArch.Application\\CleanArch.Application.csproj": {
+    "C:\\Users\\darta\\OneDrive\\Documents\\DArtagnan Lamarca\\Cursos\\Crud-CA-DDD\\CleanArch5\\CleanArch.Application\\CleanArch.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dartagnanl\\Documents\\GitHub\\Crud-CA-DDD\\CleanArch5\\CleanArch.Application\\CleanArch.Application.csproj",
+        "projectUniqueName": "C:\\Users\\darta\\OneDrive\\Documents\\DArtagnan Lamarca\\Cursos\\Crud-CA-DDD\\CleanArch5\\CleanArch.Application\\CleanArch.Application.csproj",
         "projectName": "CleanArch.Application",
-        "projectPath": "C:\\Users\\dartagnanl\\Documents\\GitHub\\Crud-CA-DDD\\CleanArch5\\CleanArch.Application\\CleanArch.Application.csproj",
-        "packagesPath": "C:\\Users\\dartagnanl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dartagnanl\\Documents\\GitHub\\Crud-CA-DDD\\CleanArch5\\CleanArch.Application\\obj\\",
+        "projectPath": "C:\\Users\\darta\\OneDrive\\Documents\\DArtagnan Lamarca\\Cursos\\Crud-CA-DDD\\CleanArch5\\CleanArch.Application\\CleanArch.Application.csproj",
+        "packagesPath": "C:\\Users\\darta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\darta\\OneDrive\\Documents\\DArtagnan Lamarca\\Cursos\\Crud-CA-DDD\\CleanArch5\\CleanArch.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dartagnanl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\darta\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\dartagnanl\\Documents\\GitHub\\Crud-CA-DDD\\CleanArch5\\CleanArch.Domain\\CleanArch.Domain.csproj": {
-                "projectPath": "C:\\Users\\dartagnanl\\Documents\\GitHub\\Crud-CA-DDD\\CleanArch5\\CleanArch.Domain\\CleanArch.Domain.csproj"
+              "C:\\Users\\darta\\OneDrive\\Documents\\DArtagnan Lamarca\\Cursos\\Crud-CA-DDD\\CleanArch5\\CleanArch.Domain\\CleanArch.Domain.csproj": {
+                "projectPath": "C:\\Users\\darta\\OneDrive\\Documents\\DArtagnan Lamarca\\Cursos\\Crud-CA-DDD\\CleanArch5\\CleanArch.Domain\\CleanArch.Domain.csproj"
               }
             }
           }
@@ -43,6 +43,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -59,21 +65,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\dartagnanl\\Documents\\GitHub\\Crud-CA-DDD\\CleanArch5\\CleanArch.Domain\\CleanArch.Domain.csproj": {
+    "C:\\Users\\darta\\OneDrive\\Documents\\DArtagnan Lamarca\\Cursos\\Crud-CA-DDD\\CleanArch5\\CleanArch.Domain\\CleanArch.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dartagnanl\\Documents\\GitHub\\Crud-CA-DDD\\CleanArch5\\CleanArch.Domain\\CleanArch.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\darta\\OneDrive\\Documents\\DArtagnan Lamarca\\Cursos\\Crud-CA-DDD\\CleanArch5\\CleanArch.Domain\\CleanArch.Domain.csproj",
         "projectName": "CleanArch.Domain",
-        "projectPath": "C:\\Users\\dartagnanl\\Documents\\GitHub\\Crud-CA-DDD\\CleanArch5\\CleanArch.Domain\\CleanArch.Domain.csproj",
-        "packagesPath": "C:\\Users\\dartagnanl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dartagnanl\\Documents\\GitHub\\Crud-CA-DDD\\CleanArch5\\CleanArch.Domain\\obj\\",
+        "projectPath": "C:\\Users\\darta\\OneDrive\\Documents\\DArtagnan Lamarca\\Cursos\\Crud-CA-DDD\\CleanArch5\\CleanArch.Domain\\CleanArch.Domain.csproj",
+        "packagesPath": "C:\\Users\\darta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\darta\\OneDrive\\Documents\\DArtagnan Lamarca\\Cursos\\Crud-CA-DDD\\CleanArch5\\CleanArch.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dartagnanl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\darta\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -98,6 +104,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -114,21 +126,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\dartagnanl\\Documents\\GitHub\\Crud-CA-DDD\\CleanArch5\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj": {
+    "C:\\Users\\darta\\OneDrive\\Documents\\DArtagnan Lamarca\\Cursos\\Crud-CA-DDD\\CleanArch5\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dartagnanl\\Documents\\GitHub\\Crud-CA-DDD\\CleanArch5\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj",
+        "projectUniqueName": "C:\\Users\\darta\\OneDrive\\Documents\\DArtagnan Lamarca\\Cursos\\Crud-CA-DDD\\CleanArch5\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj",
         "projectName": "CleanArch.Infra.Data",
-        "projectPath": "C:\\Users\\dartagnanl\\Documents\\GitHub\\Crud-CA-DDD\\CleanArch5\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj",
-        "packagesPath": "C:\\Users\\dartagnanl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dartagnanl\\Documents\\GitHub\\Crud-CA-DDD\\CleanArch5\\CleanArch.Infra.Data\\obj\\",
+        "projectPath": "C:\\Users\\darta\\OneDrive\\Documents\\DArtagnan Lamarca\\Cursos\\Crud-CA-DDD\\CleanArch5\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\darta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\darta\\OneDrive\\Documents\\DArtagnan Lamarca\\Cursos\\Crud-CA-DDD\\CleanArch5\\CleanArch.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dartagnanl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\darta\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -142,8 +154,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\dartagnanl\\Documents\\GitHub\\Crud-CA-DDD\\CleanArch5\\CleanArch.Domain\\CleanArch.Domain.csproj": {
-                "projectPath": "C:\\Users\\dartagnanl\\Documents\\GitHub\\Crud-CA-DDD\\CleanArch5\\CleanArch.Domain\\CleanArch.Domain.csproj"
+              "C:\\Users\\darta\\OneDrive\\Documents\\DArtagnan Lamarca\\Cursos\\Crud-CA-DDD\\CleanArch5\\CleanArch.Domain\\CleanArch.Domain.csproj": {
+                "projectPath": "C:\\Users\\darta\\OneDrive\\Documents\\DArtagnan Lamarca\\Cursos\\Crud-CA-DDD\\CleanArch5\\CleanArch.Domain\\CleanArch.Domain.csproj"
               }
             }
           }
@@ -195,21 +207,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\dartagnanl\\Documents\\GitHub\\Crud-CA-DDD\\CleanArch5\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj": {
+    "C:\\Users\\darta\\OneDrive\\Documents\\DArtagnan Lamarca\\Cursos\\Crud-CA-DDD\\CleanArch5\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dartagnanl\\Documents\\GitHub\\Crud-CA-DDD\\CleanArch5\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj",
+        "projectUniqueName": "C:\\Users\\darta\\OneDrive\\Documents\\DArtagnan Lamarca\\Cursos\\Crud-CA-DDD\\CleanArch5\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj",
         "projectName": "CleanArch.Infra.IoC",
-        "projectPath": "C:\\Users\\dartagnanl\\Documents\\GitHub\\Crud-CA-DDD\\CleanArch5\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj",
-        "packagesPath": "C:\\Users\\dartagnanl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dartagnanl\\Documents\\GitHub\\Crud-CA-DDD\\CleanArch5\\CleanArch.Infra.IoC\\obj\\",
+        "projectPath": "C:\\Users\\darta\\OneDrive\\Documents\\DArtagnan Lamarca\\Cursos\\Crud-CA-DDD\\CleanArch5\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj",
+        "packagesPath": "C:\\Users\\darta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\darta\\OneDrive\\Documents\\DArtagnan Lamarca\\Cursos\\Crud-CA-DDD\\CleanArch5\\CleanArch.Infra.IoC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dartagnanl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\darta\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -223,14 +235,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\dartagnanl\\Documents\\GitHub\\Crud-CA-DDD\\CleanArch5\\CleanArch.Application\\CleanArch.Application.csproj": {
-                "projectPath": "C:\\Users\\dartagnanl\\Documents\\GitHub\\Crud-CA-DDD\\CleanArch5\\CleanArch.Application\\CleanArch.Application.csproj"
+              "C:\\Users\\darta\\OneDrive\\Documents\\DArtagnan Lamarca\\Cursos\\Crud-CA-DDD\\CleanArch5\\CleanArch.Application\\CleanArch.Application.csproj": {
+                "projectPath": "C:\\Users\\darta\\OneDrive\\Documents\\DArtagnan Lamarca\\Cursos\\Crud-CA-DDD\\CleanArch5\\CleanArch.Application\\CleanArch.Application.csproj"
               },
-              "C:\\Users\\dartagnanl\\Documents\\GitHub\\Crud-CA-DDD\\CleanArch5\\CleanArch.Domain\\CleanArch.Domain.csproj": {
-                "projectPath": "C:\\Users\\dartagnanl\\Documents\\GitHub\\Crud-CA-DDD\\CleanArch5\\CleanArch.Domain\\CleanArch.Domain.csproj"
+              "C:\\Users\\darta\\OneDrive\\Documents\\DArtagnan Lamarca\\Cursos\\Crud-CA-DDD\\CleanArch5\\CleanArch.Domain\\CleanArch.Domain.csproj": {
+                "projectPath": "C:\\Users\\darta\\OneDrive\\Documents\\DArtagnan Lamarca\\Cursos\\Crud-CA-DDD\\CleanArch5\\CleanArch.Domain\\CleanArch.Domain.csproj"
               },
-              "C:\\Users\\dartagnanl\\Documents\\GitHub\\Crud-CA-DDD\\CleanArch5\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj": {
-                "projectPath": "C:\\Users\\dartagnanl\\Documents\\GitHub\\Crud-CA-DDD\\CleanArch5\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj"
+              "C:\\Users\\darta\\OneDrive\\Documents\\DArtagnan Lamarca\\Cursos\\Crud-CA-DDD\\CleanArch5\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\darta\\OneDrive\\Documents\\DArtagnan Lamarca\\Cursos\\Crud-CA-DDD\\CleanArch5\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj"
               }
             }
           }
@@ -260,21 +272,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\dartagnanl\\Documents\\GitHub\\Crud-CA-DDD\\CleanArch5\\CleanArch.MVC3\\CleanArch.MVC3.csproj": {
+    "C:\\Users\\darta\\OneDrive\\Documents\\DArtagnan Lamarca\\Cursos\\Crud-CA-DDD\\CleanArch5\\CleanArch.MVC3\\CleanArch.MVC3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dartagnanl\\Documents\\GitHub\\Crud-CA-DDD\\CleanArch5\\CleanArch.MVC3\\CleanArch.MVC3.csproj",
+        "projectUniqueName": "C:\\Users\\darta\\OneDrive\\Documents\\DArtagnan Lamarca\\Cursos\\Crud-CA-DDD\\CleanArch5\\CleanArch.MVC3\\CleanArch.MVC3.csproj",
         "projectName": "CleanArch.MVC3",
-        "projectPath": "C:\\Users\\dartagnanl\\Documents\\GitHub\\Crud-CA-DDD\\CleanArch5\\CleanArch.MVC3\\CleanArch.MVC3.csproj",
-        "packagesPath": "C:\\Users\\dartagnanl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dartagnanl\\Documents\\GitHub\\Crud-CA-DDD\\CleanArch5\\CleanArch.MVC3\\obj\\",
+        "projectPath": "C:\\Users\\darta\\OneDrive\\Documents\\DArtagnan Lamarca\\Cursos\\Crud-CA-DDD\\CleanArch5\\CleanArch.MVC3\\CleanArch.MVC3.csproj",
+        "packagesPath": "C:\\Users\\darta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\darta\\OneDrive\\Documents\\DArtagnan Lamarca\\Cursos\\Crud-CA-DDD\\CleanArch5\\CleanArch.MVC3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dartagnanl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\darta\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -288,11 +300,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\dartagnanl\\Documents\\GitHub\\Crud-CA-DDD\\CleanArch5\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj": {
-                "projectPath": "C:\\Users\\dartagnanl\\Documents\\GitHub\\Crud-CA-DDD\\CleanArch5\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj"
+              "C:\\Users\\darta\\OneDrive\\Documents\\DArtagnan Lamarca\\Cursos\\Crud-CA-DDD\\CleanArch5\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\darta\\OneDrive\\Documents\\DArtagnan Lamarca\\Cursos\\Crud-CA-DDD\\CleanArch5\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj"
               },
-              "C:\\Users\\dartagnanl\\Documents\\GitHub\\Crud-CA-DDD\\CleanArch5\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj": {
-                "projectPath": "C:\\Users\\dartagnanl\\Documents\\GitHub\\Crud-CA-DDD\\CleanArch5\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj"
+              "C:\\Users\\darta\\OneDrive\\Documents\\DArtagnan Lamarca\\Cursos\\Crud-CA-DDD\\CleanArch5\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj": {
+                "projectPath": "C:\\Users\\darta\\OneDrive\\Documents\\DArtagnan Lamarca\\Cursos\\Crud-CA-DDD\\CleanArch5\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj"
               }
             }
           }
@@ -306,6 +318,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -320,7 +338,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.29, 3.1.29]"
+              "version": "[3.1.28, 3.1.28]"
             }
           ],
           "frameworkReferences": {
@@ -331,7 +349,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

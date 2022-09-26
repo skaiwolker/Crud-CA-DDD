@@ -8,3 +8,13 @@ C:\Users\dartagnanl\Documents\GitHub\Crud-CA-DDD\CleanArch5\CleanArch.Domain\obj
 C:\Users\dartagnanl\Documents\GitHub\Crud-CA-DDD\CleanArch5\CleanArch.Domain\obj\Debug\netcoreapp3.1\CleanArch.Domain.csproj.CoreCompileInputs.cache
 C:\Users\dartagnanl\Documents\GitHub\Crud-CA-DDD\CleanArch5\CleanArch.Domain\obj\Debug\netcoreapp3.1\CleanArch.Domain.dll
 C:\Users\dartagnanl\Documents\GitHub\Crud-CA-DDD\CleanArch5\CleanArch.Domain\obj\Debug\netcoreapp3.1\CleanArch.Domain.pdb
+C:\Users\darta\OneDrive\Documents\DArtagnan Lamarca\Cursos\Crud-CA-DDD\CleanArch5\CleanArch.Domain\bin\Debug\netcoreapp3.1\CleanArch.Domain.deps.json
+C:\Users\darta\OneDrive\Documents\DArtagnan Lamarca\Cursos\Crud-CA-DDD\CleanArch5\CleanArch.Domain\bin\Debug\netcoreapp3.1\CleanArch.Domain.dll
+C:\Users\darta\OneDrive\Documents\DArtagnan Lamarca\Cursos\Crud-CA-DDD\CleanArch5\CleanArch.Domain\bin\Debug\netcoreapp3.1\CleanArch.Domain.pdb
+C:\Users\darta\OneDrive\Documents\DArtagnan Lamarca\Cursos\Crud-CA-DDD\CleanArch5\CleanArch.Domain\obj\Debug\netcoreapp3.1\CleanArch.Domain.csproj.AssemblyReference.cache
+C:\Users\darta\OneDrive\Documents\DArtagnan Lamarca\Cursos\Crud-CA-DDD\CleanArch5\CleanArch.Domain\obj\Debug\netcoreapp3.1\CleanArch.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darta\OneDrive\Documents\DArtagnan Lamarca\Cursos\Crud-CA-DDD\CleanArch5\CleanArch.Domain\obj\Debug\netcoreapp3.1\CleanArch.Domain.AssemblyInfoInputs.cache
+C:\Users\darta\OneDrive\Documents\DArtagnan Lamarca\Cursos\Crud-CA-DDD\CleanArch5\CleanArch.Domain\obj\Debug\netcoreapp3.1\CleanArch.Domain.AssemblyInfo.cs
+C:\Users\darta\OneDrive\Documents\DArtagnan Lamarca\Cursos\Crud-CA-DDD\CleanArch5\CleanArch.Domain\obj\Debug\netcoreapp3.1\CleanArch.Domain.csproj.CoreCompileInputs.cache
+C:\Users\darta\OneDrive\Documents\DArtagnan Lamarca\Cursos\Crud-CA-DDD\CleanArch5\CleanArch.Domain\obj\Debug\netcoreapp3.1\CleanArch.Domain.dll
+C:\Users\darta\OneDrive\Documents\DArtagnan Lamarca\Cursos\Crud-CA-DDD\CleanArch5\CleanArch.Domain\obj\Debug\netcoreapp3.1\CleanArch.Domain.pdb
