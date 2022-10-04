@@ -300,8 +300,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\darta\\OneDrive\\Documents\\DArtagnan Lamarca\\Cursos\\Crud-CA-DDD\\CleanArch5\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj": {
-                "projectPath": "C:\\Users\\darta\\OneDrive\\Documents\\DArtagnan Lamarca\\Cursos\\Crud-CA-DDD\\CleanArch5\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj"
+              "C:\\Users\\darta\\OneDrive\\Documents\\DArtagnan Lamarca\\Cursos\\Crud-CA-DDD\\CleanArch5\\CleanArch.Application\\CleanArch.Application.csproj": {
+                "projectPath": "C:\\Users\\darta\\OneDrive\\Documents\\DArtagnan Lamarca\\Cursos\\Crud-CA-DDD\\CleanArch5\\CleanArch.Application\\CleanArch.Application.csproj"
               },
               "C:\\Users\\darta\\OneDrive\\Documents\\DArtagnan Lamarca\\Cursos\\Crud-CA-DDD\\CleanArch5\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj": {
                 "projectPath": "C:\\Users\\darta\\OneDrive\\Documents\\DArtagnan Lamarca\\Cursos\\Crud-CA-DDD\\CleanArch5\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj"

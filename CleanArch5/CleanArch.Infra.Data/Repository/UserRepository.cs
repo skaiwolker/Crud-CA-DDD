@@ -36,7 +36,7 @@ namespace CleanArch.Infra.Data.Repository
 
         public void UpdateUser(User user)
         {
-            _context.Add(user);
+            _context.Update(user);
             _context.SaveChanges();
         }
 

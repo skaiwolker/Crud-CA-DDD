@@ -1,0 +1,51 @@
+﻿@model CleanArch.Application.ViewModels.UserViewModel
+
+@{
+	ViewData["Title"] = "Edit";
+}
+
+<h2>@ViewData["Title"] User</h2>
+
+<hr />
+<div class="row">
+	<div class="col-md-4">
+		<form asp-action="Edit">
+			<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+			<input type="hidden" asp-for="Id" />
+			<div class="form-group">
+				<label asp-for="FirstName" class="col-md-2 control-label"></label>
+				<input asp-for="FirstName" class="form-control" />
+				<span asp-validation-for="FirstName" class="text-danger"></span>
+			</div>
+
+			<div class="form-group">
+				<label asp-for="LastName" class="col-md-2 control-label"></label>
+				<input asp-for="LastName" class="form-control" />
+				<span asp-validation-for="LastName" class="text-danger"></span>
+			</div>
+
+			<div class="form-group">
+				<label asp-for="Email" class="col-md-2 control-label"></label>
+				<input asp-for="Email" class="form-control" />
+				<span asp-validation-for="Email" class="text-danger"></span>
+			</div>
+
+			<div class="form-group">
+				<label asp-for="Password" class="col-md-2 control-label"></label>	
+				<input asp-for="Password" class="form-control" />
+				<span asp-validation-for="Password" class="text-danger"></span>
+			</div>
+
+			<div class="form-group">
+				<label asp-for="AccountType" class="col-md-2 control-label"></label>
+				<input asp-for="AccountType" class="form-control" />
+				<span asp-validation-for="AccountType" class="text-danger"></span>
+			</div>
+
+			<div class="form-group">
+				<input type="submit" value="Save" class="btn btn-success" />
+				<a asp-action="Index" class="btn btn-info">Back to List</a>
+			</div>
+		</form>
+	</div>
+</div>
